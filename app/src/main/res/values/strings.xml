@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Greeting application</string>
+    <string name="button_name">Enter name</string>
+    <string name="button_greet">Greet</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_save">Save</string>
+    <string name="enter_first_name">First name</string>
+    <string name="enter_last_name">Last name</string>
+    <string name="greeting">Hello %1$s %2$s!</string>
+</resources>
